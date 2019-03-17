@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3077600944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cca31c00f85067fd5f21ef9dfdcb0b28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 524f11d833eb20da2782f3e14c91d01b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Character/FreeCharacter/humanoid.prefab
+Dependencies: []

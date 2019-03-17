@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2936332546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c3db2bbe0ae5ff4e3a329ac9e0f4d11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Preview/mummy_mon.PNG
+- Assets/Preview/zombie.PNG
+- Assets/Preview/mesa.PNG
+- Assets/Preview/crossbamboo.PNG
+- Assets/Preview/alison.PNG
+- Assets/Preview/humanoid.PNG
+- Assets/Preview/spider.PNG
+- Assets/Preview/eric.PNG
+Dependencies: []
