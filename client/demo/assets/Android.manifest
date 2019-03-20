@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 335293170
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: spider
+      Dependencies: {}
+    Info_1:
+      Name: mummy_mon
+      Dependencies: {}
+    Info_2:
+      Name: crossbamboo
+      Dependencies: {}
+    Info_3:
+      Name: preview
+      Dependencies: {}
+    Info_4:
+      Name: mesa
+      Dependencies: {}
+    Info_5:
+      Name: eric
+      Dependencies: {}
+    Info_6:
+      Name: alison
+      Dependencies: {}
+    Info_7:
+      Name: humanoid
+      Dependencies: {}
+    Info_8:
+      Name: zombie
+      Dependencies: {}
