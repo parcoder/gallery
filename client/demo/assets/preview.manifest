@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2917638783
+CRC: 2509854108
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 755e745b13fb38f51a5eb15eac8e39cd
+    Hash: 17e58b6fec9efe035aca653da7fca7b8
   TypeTreeHash:
     serializedVersion: 2
     Hash: f19fbf085e00d23fbc8d6cf7b345590b
@@ -13,6 +13,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Preview/mummy_mon.PNG
+- Assets/Preview/truck.PNG
 - Assets/Preview/car.PNG
 - Assets/Preview/zombie.PNG
 - Assets/Preview/mesa.PNG
